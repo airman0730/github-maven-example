@@ -4,6 +4,7 @@ See the [POM file](https://github.com/kevinsawicki/github-maven-example/blob/mas
 for how the downloads plugin and site plugin are configured.
 
 # Getting started
+#test add min
 
 * Fork this project
 * Update the `pom.xml` file `<url>` element to be the address of your fork

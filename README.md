@@ -5,6 +5,7 @@ for how the downloads plugin and site plugin are configured.
 
 # Getting started
 #test add in
+#html viewer , view html doc everywhere
 
 * Fork this project
 * Update the `pom.xml` file `<url>` element to be the address of your fork
